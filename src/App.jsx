@@ -56,14 +56,14 @@ export default function App() {
       {phase === 'summary' ? (
         <RoundSummary questions={questions} guesses={guesses} stats={stats} />
       ) : (
-        <main className="flex flex-col flex-1 overflow-hidden">
-          <QuestionCard
+        <main className="flex flex-col flex-1 min-h-0 overflow-hidden">
+          <div className="shrink-0"><QuestionCard
             question={current}
             questionIndex={questionIndex}
             total={questions.length}
             phase={phase}
-          />
-          <div className="flex-1 relative" style={{ cursor: "url('/miffy.svg') 20 48, crosshair" }}>
+          /></div>
+          <div className="flex-1 min-h-0 relative" style={{ cursor: "url('/miffy.svg') 20 48, crosshair" }}>
             <MapView
               phase={phase}
               pendingGuess={pendingGuess}
@@ -72,7 +72,7 @@ export default function App() {
               onMapClick={handleMapClick}
             />
           </div>
-          <ScoreDisplay
+          <div className="shrink-0"><ScoreDisplay
             phase={phase}
             pendingGuess={pendingGuess}
             confirmedGuess={currentGuess}
@@ -80,7 +80,7 @@ export default function App() {
             isLastQuestion={isLastQuestion}
             onConfirm={handleConfirmGuess}
             onNext={handleNext}
-          />
+          /></div>
         </main>
       )}
     </div>
