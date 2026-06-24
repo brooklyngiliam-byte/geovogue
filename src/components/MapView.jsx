@@ -1,5 +1,5 @@
 import { useCallback } from 'react'
-import Map, { Marker } from 'react-map-gl/mapbox'
+import Map, { Marker } from 'react-map-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
 
 const TOKEN = import.meta.env.VITE_MAPBOX_TOKEN

@@ -63,7 +63,7 @@ export default function App() {
             total={questions.length}
             phase={phase}
           /></div>
-          <div className="flex-1 min-h-0 relative" style={{ cursor: "url('/miffy.svg') 20 48, crosshair" }}>
+          <div className="flex-1 relative" style={{ minHeight: '200px', cursor: "url('/miffy.svg') 20 48, crosshair" }}>
             <MapView
               phase={phase}
               pendingGuess={pendingGuess}
