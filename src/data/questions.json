@@ -1,0 +1,182 @@
+[
+  {
+    "id": "001",
+    "category": "fashion_house",
+    "clue": "A former corset maker's apprentice opened a house here in 1910, dressing Parisian women in jersey and freeing them from the waist down.",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "answer_label": "Paris, France",
+    "source_note": "Gabrielle Chanel opened her first millinery shop on Rue Cambon, Paris, in 1910."
+  },
+  {
+    "id": "002",
+    "category": "runway_show",
+    "clue": "In 1999, Alexander McQueen sent models down a runway soaked with water, while robots spray-painted their white dresses yellow and black.",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "answer_label": "London, UK",
+    "source_note": "The 'No. 13' show took place at Victoria Miro Gallery, London. The robots were borrowed from Fiat."
+  },
+  {
+    "id": "003",
+    "category": "museum",
+    "clue": "The largest collection of haute couture in the world lives in a former train station, with roughly 10,000 garments archived in acid-free boxes.",
+    "lat": 48.8649,
+    "lng": 2.3066,
+    "answer_label": "Musée des Arts Décoratifs, Paris",
+    "source_note": "The MAD Paris holds the Palais Galliera overflow, plus its own textile collection dating to the 16th century."
+  },
+  {
+    "id": "004",
+    "category": "artist_birthplace",
+    "clue": "Yves Saint Laurent was born in this North African port city — a place whose light and color would later saturate his entire palette.",
+    "lat": 35.6969,
+    "lng": -0.6331,
+    "answer_label": "Oran, Algeria",
+    "source_note": "YSL was born in Oran on August 1, 1936. He later opened a villa in Marrakech, which also deeply influenced his work."
+  },
+  {
+    "id": "005",
+    "category": "design_movement",
+    "clue": "The Bauhaus school opened its doors here in 1919, collapsing the boundary between fine art and craft, and between a chair and a sculpture.",
+    "lat": 50.9848,
+    "lng": 11.3298,
+    "answer_label": "Weimar, Germany",
+    "source_note": "Walter Gropius founded the Bauhaus in Weimar. It moved to Dessau in 1925 and Berlin in 1932 before being shut down by the Nazis."
+  },
+  {
+    "id": "006",
+    "category": "atelier",
+    "clue": "Cristóbal Balenciaga opened his Paris atelier in 1937 after fleeing the Spanish Civil War — but he had already been dressing royalty here for a decade.",
+    "lat": 43.3183,
+    "lng": -1.9812,
+    "answer_label": "San Sebastián, Spain",
+    "source_note": "Balenciaga opened his first house in San Sebastián (Donostia) in 1917 at age 22, dressing the Spanish aristocracy."
+  },
+  {
+    "id": "007",
+    "category": "fashion_house",
+    "clue": "Comme des Garçons launched here before conquering Paris, with early collections so avant-garde the local press didn't know what to make of them.",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "answer_label": "Tokyo, Japan",
+    "source_note": "Rei Kawakubo founded Comme des Garçons in Tokyo in 1969. The Paris debut came in 1981 and shocked the fashion establishment."
+  },
+  {
+    "id": "008",
+    "category": "museum",
+    "clue": "Andy Warhol's Factory wasn't just a studio — it was a philosophy made concrete in a building in a city that never stops performing.",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "answer_label": "New York City, USA",
+    "source_note": "The original Factory was at 231 East 47th Street. Warhol moved the operation three times between 1963 and 1984."
+  },
+  {
+    "id": "009",
+    "category": "runway_show",
+    "clue": "Hussein Chalayan buried garments in a friend's garden in this city, then dug them up for his graduate show — the rust and rot became the collection.",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "answer_label": "London, UK",
+    "source_note": "Chalayan's 1993 Central Saint Martins graduate show 'The Tangent Flows' featured clothes buried with iron filings in a garden in Palmers Green."
+  },
+  {
+    "id": "010",
+    "category": "artist_birthplace",
+    "clue": "Frida Kahlo was born and died in the same cobalt-blue house, which now bears her name and anchors the neighborhood her pain made famous.",
+    "lat": 19.3557,
+    "lng": -99.1625,
+    "answer_label": "Coyoacán, Mexico City, Mexico",
+    "source_note": "The Casa Azul (Blue House) in Coyoacán is now the Museo Frida Kahlo. She was born there in 1907 and died there in 1954."
+  },
+  {
+    "id": "011",
+    "category": "fashion_house",
+    "clue": "Prada began not as a fashion house but as a leather goods shop opened here in 1913, selling luggage to the city's wealthy travelers.",
+    "lat": 45.4642,
+    "lng": 9.19,
+    "answer_label": "Milan, Italy",
+    "source_note": "Mario Prada opened Fratelli Prada in the Galleria Vittorio Emanuele II in 1913. The fashion line didn't begin until Miuccia took over in 1978."
+  },
+  {
+    "id": "012",
+    "category": "design_movement",
+    "clue": "De Stijl — the movement that gave us Mondrian's grids and Rietveld's red-blue chair — was founded and centered in this Dutch city.",
+    "lat": 52.1601,
+    "lng": 4.4970,
+    "answer_label": "Leiden, Netherlands",
+    "source_note": "The De Stijl journal was first published in Leiden in 1917. Piet Mondrian, Theo van Doesburg, and Gerrit Rietveld were key figures."
+  },
+  {
+    "id": "013",
+    "category": "atelier",
+    "clue": "Madeleine Vionnet — who invented the bias cut — ran her atelier here from 1912, employing up to 1,200 people at the height of her career.",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "answer_label": "Paris, France",
+    "source_note": "Vionnet's atelier was on Avenue Montaigne. She fingerprinted every label to prevent counterfeiting — an early IP innovator."
+  },
+  {
+    "id": "014",
+    "category": "museum",
+    "clue": "The world's only museum dedicated entirely to lace opened in a city that made the craft synonymous with its name for five centuries.",
+    "lat": 51.2093,
+    "lng": 3.2247,
+    "answer_label": "Bruges, Belgium",
+    "source_note": "The Lace Centre (Kantcentrum) in Bruges has been teaching and preserving bobbin lace since 1717. Bruges lace was famous across European courts."
+  },
+  {
+    "id": "015",
+    "category": "runway_show",
+    "clue": "Karl Lagerfeld once turned the Grand Palais into a supermarket for Chanel's runway — aisles of branded goods, fluorescent lights and all.",
+    "lat": 48.866,
+    "lng": 2.3125,
+    "answer_label": "Grand Palais, Paris, France",
+    "source_note": "The Chanel AW 2014 show transformed the Grand Palais into 'Chanel Shopping Center.' Guests received Chanel-branded grocery bags."
+  },
+  {
+    "id": "016",
+    "category": "artist_birthplace",
+    "clue": "Isamu Noguchi was born in this American city in 1904 to a Japanese poet and an American writer — a duality that would define every sculpture he made.",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "answer_label": "New York City, USA",
+    "source_note": "Noguchi was born in Los Angeles — but his studio and museum are in Long Island City, New York, which is where his legacy is most physically anchored."
+  },
+  {
+    "id": "017",
+    "category": "fashion_house",
+    "clue": "Vivienne Westwood's first shop opened on the King's Road here, selling clothes that would ignite punk fashion under a name that changed several times.",
+    "lat": 51.4882,
+    "lng": -0.1677,
+    "answer_label": "Chelsea, London, UK",
+    "source_note": "430 King's Road, known as 'Let it Rock', then 'Too Fast to Live', then 'SEX', was the nucleus of British punk fashion from 1971."
+  },
+  {
+    "id": "018",
+    "category": "design_movement",
+    "clue": "Memphis Group's maximalist, anti-minimalist furniture burst onto the design world from this Italian design capital in 1981.",
+    "lat": 45.4642,
+    "lng": 9.19,
+    "answer_label": "Milan, Italy",
+    "source_note": "Ettore Sottsass founded Memphis Group in Milan. Their first show was at the 1981 Milan Furniture Fair, and it changed design forever."
+  },
+  {
+    "id": "019",
+    "category": "museum",
+    "clue": "The Costume Institute — home to the Met Gala's annual exhibition — lives inside this museum that straddles two zip codes on Fifth Avenue.",
+    "lat": 40.7794,
+    "lng": -73.9632,
+    "answer_label": "The Metropolitan Museum of Art, New York",
+    "source_note": "The Costume Institute was founded in 1937 as the Museum of Costume Art. It merged with the Met in 1946 and is now one of the world's premier fashion archives."
+  },
+  {
+    "id": "020",
+    "category": "atelier",
+    "clue": "Elsa Schiaparelli set up her Paris atelier in the Place Vendôme in 1934, where she collaborated with Dalí and made a lobster a fashion statement.",
+    "lat": 48.8678,
+    "lng": 2.3306,
+    "answer_label": "Place Vendôme, Paris, France",
+    "source_note": "The lobster dress (1937), made in collaboration with Salvador Dalí, is one of the most iconic objects in fashion history. It's currently in the Philadelphia Museum of Art."
+  }
+]
